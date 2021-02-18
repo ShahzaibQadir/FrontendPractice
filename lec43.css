@@ -1,0 +1,18 @@
+header{ 
+    background-color: #f0ebeb;
+}
+section.my-articles{
+     background-color: #f2e9e9;
+}
+header p{
+    color: red;
+}
+li a{
+    color: indianred;
+}
+section.my-articles h2{
+    color: green;
+}
+h2+p{
+    color: indigo;
+}
