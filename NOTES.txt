@@ -1,0 +1,147 @@
+==========================CSS LECTURE'S OVERVIEW==============================
+ALT L PHIR O Press
+============
+Lecture 37 :
+Google font kese use karte hai css mai fonts ko kese lagate font-family use kark
+============
+
+============
+Lecture 38 : Completed
+============
+
+============
+Lecture 39 :Completed
+============
+
+============
+Lecture 40 :Completed
+============
+
+============
+Lecture 41 :Completed
+============
+
+============
+Lecture 42 :Completed
+============
+
+============
+Lecture 43 :Completed
+============
+
+============
+Lecture 44 :Completed
+============
+
+============
+Lecture 45 :Inspect Tool Demo Completed
+============
+
+============
+Lecture 46 :Specificity Part 1
+/*inline style attribute > id selector > class selector > element selector */
+Completed
+============
+
+============
+Lecture 47 :Specificity Part 2 Completed
+
+============
+
+============
+Lecture 48 :CSS BORDER Completed
+ /* padding-left: 40px; */
+    /* padding-top: 40px ; */
+    /* padding: 40px; */
+    /* padding: 20px 40px; 1st wala upar niche 2nd wala left right */
+    /* padding : 20px 50px 60px 80px; Gari k kante ki direction mai clockwise */
+    Border Margin Padding 
+============
+
+============
+Lecture 49 :
+============
+
+============
+Lecture 50 :
+============
+
+============
+Lecture 51 :
+============
+
+============
+Lecture 52 :
+============
+
+============
+Lecture 53 :
+============
+
+============
+Lecture 54 :
+============
+
+============
+Lecture 55 :
+============
+
+============
+Lecture 56 :
+============
+
+============
+Lecture 57 :
+============
+
+============
+Lecture 58 :
+============
+
+============
+Lecture 59 :
+============
+
+============
+Lecture 60 :
+============
+
+============
+Lecture 61 :
+============
+
+============
+Lecture 62 :
+============
+
+============
+Lecture 63 :
+============
+
+============
+Lecture 64 :
+============
+
+============
+Lecture 65 :
+============
+
+============
+Lecture 66 :
+============
+
+============
+Lecture 67 :
+============
+
+============
+Lecture 68 :
+============
+
+============
+Lecture 69 :
+============
+
+============
+Lecture 70 :
+============
