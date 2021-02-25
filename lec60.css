@@ -1,0 +1,11 @@
+ h1{
+     background: indigo;
+     text-align: center;
+     width: 500px;
+ }
+ a{
+     background: khaki;
+     display: inline-block;
+     width: 500px;
+     text-align: center;
+ }
