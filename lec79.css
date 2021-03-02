@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.fav-musicians{
+    border: 10px solid green;
+}
+.mozart{
+    width: 25%;
+    float:left;
+    border: 4px solid red;
+    background-color:lightslategrey
+}
+.beethoven{
+    width: 25%;
+    float:left;
+    border: 4px solid blue;
+    background-color: khaki;
+}
+.clearfix{
+    clear: both;
+}
+
+.paganini{
+    border: 4px solid orangered;
+    width: 25%;
+    float:left;
+    background-color:lemonchiffon;
+}
+.bach{
+    border: 4px solid brown;
+    width: 25%;
+    float:left;
+    background-color:lightskyblue;
+}
+
+.fav-musicians::after{
+    content: "";
+    display: block;
+    clear:both;
+}

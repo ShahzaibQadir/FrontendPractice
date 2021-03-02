@@ -1,0 +1,22 @@
+/* Font size k leye rem use karna chaheye */
+
+html{
+    /* font-size: 10px; */
+     /*jb mene default 16px ko 10px kia tou 3rem = 30px k*/
+     font-size: 62.5%;
+}
+h1{
+    /* font-size: 3rem; */
+     /*3rem =48px and 1rem =16px0*/
+     font-size: 30px;
+     border: 4px solid black;
+     padding: 1em;
+}
+/* Margin aur Padding em mai jb bhi lenge tb humare size se woh value lega 1st k leye
+for example font-size:30px hai tou padding 1em mai 30 px ki padding lag jae gi */
+p{
+    font-size: 2rem;
+}
+
+/* Aur Padding aur margin k leye em use karte hai lekin marzi hai hmari */
+ 
